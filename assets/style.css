@@ -1,0 +1,27 @@
+canvas,div.overlay{height:100%;top:0;left:0}
+body,h1,html{margin:0;padding:0}
+canvas,div.overlay,footer{position:absolute;width:100%}
+footer,p{display:block;letter-spacing:1px}
+footer,main{text-align:center}
+a,body{color:#acb8b4}body,html{height:100%}
+body{background:url(/assets/background.jpeg)
+     center center #101312;background-size:cover;font-family:'Darker Grotesque',sans-serif}
+     body.support--webp{background:url(/assets/background.webp) center center #101312;background-size:cover}
+     div.overlay
+     {background:url(/assets/overlay.png) center center;background-size:cover;mix-blend-mode:hard-light}h1 span,main{position:relative}
+     body.support--webp div.overlay{background:url(/assets/overlay.webp) center center;background-size:cover}
+     main{max-width:800px;top:50%;margin:0 auto;-webkit-transform:translate(0,-70%);-ms-transform:translate(0,-70%);transform:translate(0,-70%)}
+     h1{font-size:5rem;font-weight:400;text-transform:uppercase;line-height:6rem;letter-spacing:25px}
+     footer,h1 span
+     {font-weight:300}h1 span{top:38px;font-size:9.4rem;line-height:4rem}
+     p{width:70%;margin:35px auto;font-size:1.2rem;line-height:1.5rem}
+     footer{bottom:15px;font-size:1rem}a{text-decoration:none;-webkit-transition:color .25s ease;-o-transition:color .25s ease;transition:color .25s ease}
+     a:hover{color:#e3e7e6}@media screen and (max-width:800px){
+         h1{font-size:3rem;line-height:4rem;letter-spacing:15px}
+         h1 span{top:25px;font-size:6rem;line-height:2rem}
+         p{width:60%;margin:25px auto;font-size:1rem;line-height:1.4rem;letter-spacing:1px}
+         footer{font-size:.9rem}}@media screen and (max-width:500px){h1{font-size:2rem;line-height:3rem;letter-spacing:10px}
+         h1 span{top:16px;font-size:3.8rem;line-height:1.5rem}
+         p{width:80%;margin:25px auto;font-size:1rem;line-height:1.4rem;letter-spacing:1px}footer{font-size:.9rem}
+        }
+

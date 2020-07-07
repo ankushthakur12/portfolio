@@ -1,0 +1,664 @@
+{
+        {
+        "title": "Women";
+        "title_fr": "Femmes";
+        "sections": [
+                {
+                        "title": "Pants & Skirts";
+                        "title_fr": "Pantalons & Jupes";
+                        "links": [
+                                {
+                                        "title": "All Pants & Skirts";
+                                                                                        "title_fr": "Tous les pantalons & jupes";
+                                                                                        "url": "/show.php/list/women/clothing/pants-skirts";
+                                                                                        "url_fr": "";
+                                        },
+                                        {
+                                                "title": "Assisted Dressing";
+                                                                                                "title_fr": "Aide &agrave; l&apos;habillage";
+                                                                                                "url": "/show.php/list/women/clothing/pants-skirts/assisted-dressing";
+                                                                                                "url_fr": "";
+                                        },
+                                        {
+                                                "title": "Self Dressing";
+                                                                                                "title_fr": "Habillage ind&eacute;pendant";
+                                                                                                "url": "/show.php/list/women/clothing/pants-skirts/independent-dressing";
+                                                                                                "url_fr": "";
+                                        },
+                                        {
+                                                "title": "Open Back Pants";
+                                                                                                "title_fr": "Pantalons sans si&egrave;ge";
+                                                                                                "url": "/show.php/list/women/clothing/pants-skirts/wheelchair-pants";
+                                                                                                "url_fr": "";
+                                        },
+                                        {
+                                                "title": "Open Side Pants";
+                                                                                                "title_fr": "Pantalons ouverture sur les c&ocirc;t&eacute;s";
+                                                                                                "url": "/show.php/list/women/clothing/pants-skirts/open-side-pants";
+                                                                                                "url_fr": "";
+                                        },
+                                        {
+                                                "title": "Elastic Waist Pants";
+                                                                                                "title_fr": "Pantalons &agrave; taille &eacute;lastique";
+                                                                                                "url": "/show.php/list/women/clothing/pants-skirts/elastic-waist-pants";
+                                                                                                "url_fr": "";
+                                        },
+                                        {
+                                                "title": "Easy Wear Pants";
+                                                                                                "title_fr": "Pantalons pour habillage facile";
+                                                                                                "url": "/show.php/list/women/clothing/pants-skirts/elastic-waist-pants";
+                                                                                                "url_fr": "";
+                                        },
+                                        {
+                                                "title": "Easy Wear Skirts";
+                                                                                                "title_fr": "Jupes pour habillage facile";
+                                                                                                "url": "/show.php/list/women/clothing/pants-skirts/skirts";
+                                                                                                "url_fr": "";
+                                        },
+                                        {
+                                                "title": "Track Pants &amp; Sets";
+                                                                                                "title_fr": "Pantalons &amp; ensembles";
+                                                                                                "url": "/show.php/list/women/clothing/sets/sweatsuits";
+                                                                                                "url_fr": "";
+                                        },
+                                        {
+                                                "title": "Wheelchair Pants";
+                                                                                                "title_fr": "Pantalons pour fauteuil roulant";
+                                                                                                "url": "/show.php/list/women/clothing/sets/sweatsuits";
+                                                                                                "url_fr": "";
+                                        },
+                                        {
+                                                "title": "Tops & Dresses";
+                                                                                        "title_fr": "";
+                                                                                        "links": [
+                                                        {
+                                                                "title": "All Tops &amp; Dresses";
+                                                                                                                        "title_fr": "Tous les pantalons";
+                                                                                                                        "url": "/show.php/list/women/clothing/dresses";
+                                                                                                                        "url_fr": "";
+                                                        },
+                                                        {
+                                                                "title": "Assisted Dressing";
+                                                                                                                "title_fr": "";
+                                                                                                                "url": "/show.php/list/women/clothing/tops/assisted-dressing";
+                                                                                                                "url_fr": "";
+                                                        },
+                                                        {
+                                                                "title": "Self Dressing";
+                                                                                                        "title_fr": "";
+                                                                                                        "url": "/show.php/list/women/clothing/tops/independent-dressing";
+                                                                                                        "url_fr": "";
+                                                        },
+                                                        {
+                                                                "title": "Anti-Strip Clothing";
+                                                                                                "title_fr": "";
+                                                                                                "url": "/show.php/list/women/clothing/sets/jumpsuits/";
+                                                                                                "url_fr": "";
+                                                        },
+                                                        {
+                                                                "title": "Easy Wear";
+                                                                                        "title_fr": "";
+                                                                                        "url": "/show.php/list/women/clothing/tops/easy-wear";
+                                                                                        "url_fr": "";
+                                                        },
+                                                        {
+                                                                "title": "Open Back";
+                                                                                "title_fr": "";
+                                                                                "url": "";
+                                                                                "url_fr": "";
+                                                        },
+                                                ]
+                                        },
+                                        {
+                                                "title": "Intimates";
+                                                                                "title_fr": "Pantalons";
+                                                                                "links": [
+                                                        {
+                                                                "title": "All Intimates & Sleepwear";
+                                                                                                                "title_fr": "";
+                                                                                                                "url": "/show.php/list/women/clothing/intimates-sleepwear/intimates";
+                                                                                                                "url_fr": "";
+                                                        },
+                                                        {
+                                                                "title": "Bras";
+                                                                                                        "title_fr": "";
+                                                                                                        "url": "/show.php/list/women/clothing/intimates-sleepwear/intimates/bras";
+                                                                                                        "url_fr": "";
+                                                        },
+                                                        {
+                                                                "title": "BreastNest";
+                                                                                                "title_fr": "BreastNest";
+                                                                                                "url": "/show.php/list/women/clothing/intimates-sleepwear/intimates/bras/breastnest-bra-alternatives";
+                                                                                                "url_fr": "";
+                                                        },
+                                                        {
+                                                                "title": "Hospital Gowns";
+                                                                                        "title_fr": "";
+                                                                                        "url": "/show.php/list/women/clothing/hospital-gowns";
+                                                                                        "url_fr": "";
+                                                        },
+                                                ]
+                                        },
+                                        {
+                                                "title": "Footwear";
+                                                                        "title_fr": "";
+                                                                        "links": [
+                                                        {
+                                                                "title": "All Footwear";
+                                                                                                        "title_fr": "";
+                                                                                                        "url": "/show.php/list/women/footwear";
+                                                                                                        "url_fr": "";
+                                                        },
+                                                        {
+                                                                "title": "Slippers";
+                                                                                                "title_fr": "";
+                                                                                                "url": "/show.php/list/women/footwear/slippers";
+                                                                                                "url_fr": "";
+                                                        },
+                                                        {
+                                                                "title": "Shoes";
+                                                                                                "title_fr": "";
+                                                                                                "url": "/show.php/list/women/footwear/slippers";
+                                                                                                "url_fr": "";
+                                                        },
+                                                        {
+                                                                "title": "Socks";
+                                                                                                "title_fr": "";
+                                                                                                "url": "/show.php/list/women/footwear/socks";
+                                                                                                "url_fr": "";
+                                                        },
+                                                ]
+                                        },
+                                        {
+                                                "title": "Accessories";
+                                                                "title_fr": "";
+                                                                "links": [
+                                                        {
+                                                                "title": "All Accessories";
+                                                                                                "title_fr": "";
+                                                                                                "url": "/show.php/list/women/accessories";
+                                                                                                "url_fr": "";
+                                                        },
+                                                        {
+                                                                "title": "Bibs";
+                                                                                        "title_fr": "";
+                                                                                        "url": "/show.php/list/women/accessories/bibs";
+                                                                                        "url_fr": "";
+                                                        },
+                                                        {
+                                                                "title": "Wheelchair";
+                                                                                        "title_fr": "";
+                                                                                        "url": "/show.php/list/women/accessories/wheelchair";
+                                                                                        "url_fr": "";
+                                                        },
+                                                ]
+                                        },
+                                        {
+                                                "title": "Shop by Needs &amp; Conditions";
+                                                        "title_fr": "";
+                                                        "links": [
+                                                        {
+                                                                "title": "Alzheimer/'s";
+                                                                                        "title_fr": "";
+                                                                                        "url": "";
+                                                                                        "url_fr": ""
+                                                        },
+                                                        {
+                                                                "title": "Arthritis";
+                                                                                "title_fr": "";
+                                                                                "url": "";
+                                                                                "url_fr": ""
+                                                        },
+                                                        {
+                                                                "title": "ALS";
+                                                                                "title_fr": "";
+                                                                                "url": "";
+                                                                                "url_fr": ""
+                                                        },
+                                                        {
+                                                                "title": "Bariatric";
+                                                                                "title_fr": "";
+                                                                                "url": "";
+                                                                                "url_fr": ""
+                                                        },
+                                                        {
+                                                                "title": "See More";
+                                                                                "title_fr": "";
+                                                                                "url": "";
+                                                                                "url_fr": ""
+                                                        },
+                                                ]
+                                        },
+                                ],
+                                "sections": [
+                                        {
+                                                "title": "Pants & Skirts";
+                                                                "title_fr": "Pantalons & Jupes";
+                                                                "links": [
+                                                        {
+                                                                "title": "All Pants & Skirts";
+                                                                                                "title_fr": "Tous les pantalons & jupes";
+                                                                                                "url": "/show.php/list/women/clothing/pants-skirts";
+                                                                                                "url_fr": "";
+                                                        },
+                                                },
+
+                                                ...
+                                        ];
+                                "featured_product": 10240;
+                                "sidebar_links": [
+                                                {
+                                                        "title": "Clearance";
+                                                                "title_fr": "Liquidation";
+                                                                "url": "/show.php/specials/women";
+                                                                "url_fr": "/voyez.php/liquidation/femmes"
+                                                },
+                                                ...
+                                        ]
+                                }
+                {
+                                        "title": "Men";
+                        "title_fr": "Hommes";
+                        "sections": [
+                                                {
+                                "title": "Pants";
+                                "title_fr": "Pantalons";
+                                        "links": [
+                                                                {
+                                                                        "title": "All Pants";
+                                                                        "title_fr": "Tous les pantalons";
+                                                                        "url": "/show.php/list/men/clothing/pants";
+                                                                        "url_fr": "/voyez.php/liste/hommes/vetements/pantalons"
+                                                                },
+                                                                {
+                                                                        "title": "Assisted Dressing";
+                                                                        "title_fr": "Aide &agrave; l&apos;habillage";
+                                                                        "url": "/show.php/list/men/clothing/pants/assisted-dressing";
+                                                                        "url_fr": ""
+                                                                },
+                                                                {
+                                                                        "title": "Self Dressing";
+                                                                        "title_fr": "Habillage ind&eacute;pendant";
+                                                                        "url": "/show.php/list/men/clothing/pants-skirts/independent-dressing";
+                                                                        "url_fr": ""
+                                                                },
+                                                                {
+                                                                        "title": "Open Back Pants";
+                                                                        "title_fr": "Pantalons sans si&egrave;ge";
+                                                                        "url": "/show.php/list/men/clothing/pants/open-back";
+                                                                        "url_fr": ""
+                                                                },
+                                                                {
+                                                                        "title": "Open Side Pants";
+                                                                        "title_fr": "Pantalons ouverture sur les c&ocirc;t&eacute;s";
+                                                                        "url": "/show.php/list/men/clothing/pants-skirts/open-side-pants";
+                                                                        "url_fr": ""
+                                                                },
+                                                                {
+                                                                        "title": "Elastic Waist Pants";
+                                                                        "title_fr": "Pantalons &agrave; taille &eacute;lastique";
+                                                                        "url": "/show.php/list/men/clothing/pants/elastic-waist-pants";
+                                                                        "url_fr": ""
+                                                                },
+                                                                {
+                                                                        "title": "Easy Wear Skirts";
+                                                                        "title_fr": "Jupes pour habillage facile";
+                                                                        "url": "/show.php/list/men/clothing/pants/elastic-waist-pants/independent-dressing";
+                                                                        "url_fr": ""
+                                                                },
+                                                                {
+                                                                        "title": "Track Pants &amp; Sets";
+                                                                        "title_fr": "Pantalons &amp; ensembles";
+                                                                        "url": "/show.php/list/men/clothing/sets/sweatsuits";
+                                                                        "url_fr": ""
+                                                                },
+                                                                {
+                                                                        "title": "Wheelchair Pants";
+                                                                        "title_fr": "Pantalons pour fauteuil roulant";
+                                                                        "url": "/show.php/list/men/clothing/pants-skirts/wheelchair-pants";
+                                                                        "url_fr": ""
+                                                                },
+                                                        ],
+                                                },
+
+                                                {
+                                                        "title": "Shirts";
+                                                        "title_fr": "Tous les hauts";
+                                                        "links": [
+                                                                {
+                                                                        "title": "All Shirts";
+                                                                        "title_fr": "Tous les hauts";
+                                                                        "url": "/show.php/list/men/clothing/shirts";
+                                                                        "url_fr": "";
+                                                                },
+                                                                {
+                                                                        "title": "Assisted Dressing";
+                                                                        "title_fr": "Aide &agrave; l&apos;habillage";
+                                                                        "url": "/show.php/list/men/clothing/shirts/assisted-dressing";
+                                                                        "url_fr": "";
+                                                                },
+                                                                {
+                                                                        "title": "Self Dressing";
+                                                                        "title_fr": "Habillage ind&eacute;pendant";
+                                                                        "url": "/show.php/list/men/clothing/shirts/independent-dressing";
+                                                                        "url_fr": "";
+                                                               },
+                                                                {
+                                                                       "title": "Easy Wear";
+                                                                        "title_fr": "Habillage facile";
+                                                                        "url": "/show.php/list/men/clothing/shirts/easy-wear";
+                                                                        "url_fr": "";
+                                                                },
+                                                                {
+                                                                        "title": "Open Back";
+                                                                        "title_fr": "Ouverture au dos";
+                                                                        "url": "/show.php/list/men/clothing/shirts/easy-wear";
+                                                                        "url_fr": "";
+                                                                },
+                                                        ]
+                                                },
+                                                {
+                                                "title": "Underwear &amp; Sleepwear";
+                                                "title_fr": "Sous-v&ecirc;tements &amp; Tenues de nuit";
+                                                "links": [
+                                                                {
+                                                                        "title": "All Underwear &amp; Sleepwear";
+                                                                        "title_fr": "Tous les sous-v&ecirc;tements &amp; tenues de nuit";
+                                                                        "url": "/show.php/list/men/clothing/underwear-sleepwear";
+                                                                        "url_fr": "";
+                                                                },
+                                                                {
+                                                                        "title": "Assisted Dressing";
+                                                                        "title_fr": "Aide &agrave; l&apos;habillage";
+                                                                        "url": "/show.php/list/men/clothing/shirts/assisted-dressing";
+                                                                        "url_fr": "";
+                                                                },
+                                                                {
+                                                                        "title": "Self Dressing";
+                                                                        "title_fr": "Habillage ind&eacute;pendant";
+                                                                        "url": "/show.php/list/men/clothing/shirts/independent-dressing";
+                                                                        "url_fr": "";
+                                                                },
+                                                                {
+                                                                        "title": "Easy Wear";
+                                                                        "title_fr": "Habillage facile";
+                                                                        "url": "/show.php/list/men/clothing/shirts/easy-wear";
+                                                                        "url_fr": "";
+                                                                },
+                                                                {
+                                                                        "title": "Open Back";
+                                                                        "title_fr": "Ouverture au dos";
+                                                                        "url": "/show.php/list/men/clothing/shirts/easy-wear";
+                                                                        "url_fr": "";
+                                                                },
+                                                        ]
+                                                },
+                                                {
+                                                "title": "Outerwear";
+                                                "title_fr": "V&ecirc;tements ext&eacute;rieurs";
+                                                "links": [
+                                                                {
+                                                                        "title": "All Outerwear";
+                                                                        "title_fr": "Tous les v&ecirc;tements ext&eacute;rieurs";
+                                                                        "url": "/show.php/list/men/clothing/outerwear";
+                                                                        "url_fr": "";
+                                                                },
+                                                                {
+                                                                        "title": "Ponchos &amp; Capes";
+                                                                        "title_fr": "V&ecirc;tements ext&eacute;rieurs";
+                                                                        "url": "/show.php/list/men/clothing/outerwear/ponchos-capes";
+                                                                        "url_fr": "";
+                                                                },
+                                                                {
+                                                                        "title": "Cardigans &amp; Sweaters";
+                                                                        "title_fr": "Cardigans";
+                                                                        "url": "/show.php/list/men/clothing/outerwear/sweaters";
+                                                                        "url_fr": "";
+                                                                },
+                                                        ]
+                                                },
+
+                                                {
+                                                        "title": "Footwear";
+                                                        "title_fr": "Articles chaussants";
+                                                        "links": [
+                                                                {
+                                                                        "title": "All Men&apos;s Footwear";
+                                                                        "title_fr": "Tous les articles chaussants";
+                                                                        "url": "/show.php/list/men/footwear";
+                                                                        "url_fr": "";
+                                                                },
+                                                                {
+                                                                        "title": "Slipper";
+                                                                        "title_fr": "Pantoufles";
+                                                                        "url": "/show.php/list/men/footwear/slippers";
+                                                                        "url_fr": "";
+                                                                },
+                                                                {
+                                                                        "title": "Shoes &amp; Sandals";
+                                                                        "title_fr": "Chaussures";
+                                                                        "url": "/show.php/list/men/footwear/shoes";
+                                                                        "url_fr": "";
+                                                                },
+                                                                {
+                                                                        "title": "Socks";
+                                                                        "title_fr": "Chaussettes/Bas";
+                                                                        "url": "/show.php/list/men/footwear/socks";
+                                                                        "url_fr": "";
+                                                                },
+                                                        ]
+                                                },
+
+                                                {
+                                                        "title": "Accessories";
+                                                        "title_fr": "Accessories";
+                                                        "links": [
+                                                                {
+                                                                        "title": "All Accessories";
+                                                                        "title_fr": "Tous les accessoires";
+                                                                        "url": "/show.php/list/men/accessories";
+                                                                        "url_fr": "";
+                                                                },
+                                                                {
+                                                                        "title": "Bibs";
+                                                                        "title_fr": "Bavettes";
+                                                                        "url": "/show.php/list/men/accessories/bibs";
+                                                                        "url_fr": "";
+                                                                },
+                                                                {
+                                                                        "title": "Wheelchair";
+                                                                        "title_fr": "Pour fauteuil roulant";
+                                                                        "url": "/show.php/list/men/accessories/wheelchair";
+                                                                        "url_fr": "";
+                                                                }
+                                                        ]
+                                                },
+
+                                                {
+                                                "title": "Shop by Needs &amp; Conditions";
+                                                "title_fr": "";
+                                                "links": [
+                                                                {
+                                                                        "title": "Alzheimer/'s";
+                                                                        "title_fr": "L&apos;Alzheimer";
+                                                                        "url": "/show.php/list/men/alzheimers";
+                                                                        "url_fr": "";
+                                                                },
+                                                                {
+                                                                        "title": "Arthritis";
+                                                                        "title_fr": "L&apos;Arthrite";
+                                                                        "url": "/show.php/list/men/arthritis";
+                                                                        "url_fr": "";
+                                                                },
+                                                                {
+                                                                        "title": "ALS";
+                                                                        "title_fr": "SLA";
+                                                                        "url": "/show.php/list/men/als";
+                                                                        "url_fr": "";
+                                                                },
+                                                                {
+                                                                        "title": "Bariatric";
+                                                                        "title_fr": "Bariatrique";
+                                                                        "url": "/show.php/list/men/plus-size";
+                                                                        "url_fr": "";
+                                                                },
+                                                                {
+                                                                        "title": "See More";
+                                                                        "title_fr": "Voir plus…";
+                                                                        "url": "/mens-clothing-needs";
+                                                                        "url_fr": "";
+                                                                },
+                                                        ]
+                                                },
+                                        ]
+                                "featured_product": 40010;
+                                "sidebar_links": [
+                                                {
+                                                        "title": "Clearance";
+                                                                "title_fr": "Liquidation";
+                                                                "url": "/show.php/specials/men";
+                                                                "url_fr": "/voyez.php/liquidation/hommes";
+                                                },
+                                        ]
+                                }
+                {
+                        "title": "Shop By Need";
+                        "title_fr": "Besoins";
+                        "links": [
+                                {
+                                        "title": "Adaptive";
+                                        "title_fr": "Adapt&eacute;s";
+                                        "url": "/adaptive-clothes/";
+                                        "url_fr": "/adaptive-clothes/?lang=fr";
+                                },                                                
+                                {
+                                        "title": "Alzheimers";
+                                        "title_fr": "Maladie dapos;Alzheimer";
+                                        "url": "/alzheimers-clothing";
+                                        "url_fr": "/alzheimers-clothing/?lang=fr";
+                                },                                
+                                {
+                                        "title": "Arthitis";
+                                        "title_fr": "Arthrite";
+                                        "url": "/arthritis-clothing";
+                                        "url_fr": "/arthritis-clothing/?lang=fr";
+                                },
+                                {
+                                        "title": "Bariatric Clothing";
+                                        "title_fr": "V&ecirc;tements bariatriques";
+                                        "url": "/bariatric-clothing-plus-size";
+                                        "url_fr": "/bariatric-clothing-plus-size/?lang=fr";
+                                },                                
+                                {
+                                        "title": "Diabetic Footwear";
+                                        "title_fr": "Chaussures pour diab&eacute;tiques";
+                                        "url": "/diabetes-shoes-socks-slippers-clothing";
+                                        "url_fr": "/diabetes-shoes-socks-slippers-clothing/?lang=fr";
+                                },                                
+                                {
+                                        "title": "Disabled";
+                                        "title_fr": "Invalides";
+                                        "url": "/disabled-clothing";
+                                        "url_fr": "/disabled-clothing?lang=fr";
+                                },
+                                {
+                                        "title": "Edema";
+                                        "title_fr": "&OElig;de&grave;me";
+                                        "url": "/edema-footwear";
+                                        "url_fr": "/edema-footwear?lang=fr";
+                                },
+                                {
+                                        "title": "Elderly / Senior";
+                                        "title_fr": "&OElig;de&grave;me";
+                                        "url": "/edema-footwear";
+                                        "url_fr": "/edema-footwear?lang=fr";
+                                },
+                                {
+                                        "title": "Foot Problems &amp; Solutions";
+                                        "title_fr": "Probl&egrave;mes aux pieds & rem&egrave;des";
+                                        "url": "/foot-problems-footwear-solutions";
+                                        "url_fr": "/foot-problems-footwear-solutions?lang=fr";
+                                },
+                                {
+                                        "title": "Handicap";
+                                        "title_fr": "Handicap&eacute;";
+                                        "url": "/handicap-clothing";
+                                        "url_fr": "/handicap-clothing?lang=fr";
+                                },
+                                {
+                                        "title": "Nursing Home";
+                                        "title_fr": "Maison de retraite";
+                                        "url": "/nursing-home-clothing";
+                                        "url_fr": "/nursing-home-clothing?lang=fr";
+                                },
+                                {
+                                        "title": "Parkinson\'s";
+                                        "title_fr": "Maison de retraite";
+                                        "url": "/nursing-home-clothing";
+                                        "url_fr": "/nursing-home-clothing?lang=fr";
+                                },
+                                {
+                                        "title": "Patient Clothing";
+                                        "title_fr": "V&ecirc;tements pour patients";
+                                        "url": "/hospital-clothing-footwear";
+                                        "url_fr": "/hospital-clothing-footwear?lang=fr";
+                                },                                
+                                {
+                                        "title": "Post Operation";
+                                        "title_fr": "Post-op&eacute;ratoires";
+                                        "url": "/post-operation-clothing";
+                                        "url_fr": "/post-operation-clothing?lang=fr";
+                                },                                
+                                {
+                                        "title": "Stroke Clothing";
+                                        "title_fr": "Accident vasculaire c&eacute;r&eacute;bral (AVC)";
+                                        "url": "/stroke-clothing";
+                                        "url_fr": "/post-operation-clothing?lang=fr";
+                                },
+                                {
+                                        "title": "Swollen Feet";
+                                        "title_fr": "Pieds enfl&eacute;s";
+                                        "url": "/swollen-feet-shoes-slippers";
+                                        "url_fr": "/swollen-feet-shoes-slippers?lang=fr";
+                                },
+                                {
+                                        "title": "Wheelchair";
+                                        "title_fr": "En fauteuil roulant";
+                                        "url": "/wheelchair-clothing";
+                                        "url_fr": "/wheelchair-clothing?lang=fr";
+                                },
+                                {
+                                        "title": "Wide &amp; Extra Wide";
+                                        "title_fr": "Large et tr&egrave;s large";
+                                        "url": "/extra-wide-diabetic-slippers";
+                                        "url_fr": "/extra-wide-diabetic-slippers?lang=fr";
+                                },
+                                {
+                                        "title": "See More";
+                                        "title_fr": "Voir plus";
+                                        "url": "/adaptive-clothing-needs-guide";
+                                        "url_fr": "/adaptive-clothing-needs-guide?lang=fr";
+                                }
+                        ]
+                                "sidebar_links": [
+                                                {
+                                                        "title": "Clearance";
+                                                                "title_fr": "Liquidation";
+                                                                "url": "/show.php/specials";
+                                                                "url_fr": "/voyez.php/liquidation";
+                                                },
+                                                {
+                                                        "title": "Best Seller";
+                                                                "title_fr": "Best Sellers";
+                                                                "url": "/best-sellers";
+                                                                "url_fr": "/best-sellers?lang=fr";
+                                                },
+                                                {
+                                                        "title": "New Arrivals";
+                                                                "title_fr": "Nouvelles arriv&eacute;es";
+                                                                "url": "/show.php/new-products";
+                                                                "url_fr": "/show.php/new-products?lang=fr";
+                                                }
+                                        ]
+                                }
+                        }

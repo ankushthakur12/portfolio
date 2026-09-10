@@ -80,12 +80,14 @@
   if (year) year.textContent = new Date().getFullYear();
 
   // Build the mail address only when a visitor activates the contact CTA.
-  // The address is intentionally not present as plain text in the HTML source.
+  // Character codes avoid storing the address as a readable email string.
   document.querySelectorAll('.contact-trigger').forEach((link) => {
     link.addEventListener('click', (event) => {
       event.preventDefault();
-      const parts = ['ankushthakur12', 'hotmail', 'com'];
-      const address = `${parts[0]}@${parts[1]}.${parts[2]}`;
+      const address = String.fromCharCode(
+        97,110,107,117,115,104,116,104,97,107,117,114,49,50,64,
+        104,111,116,109,97,105,108,46,99,111,109
+      );
       window.location.href = `mailto:${address}`;
     });
   });

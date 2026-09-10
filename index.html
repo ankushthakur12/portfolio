@@ -13,13 +13,14 @@
   <link rel="icon" type="image/png" sizes="32x32" href="assets/favicon-32x32.png">
 </head>
 <body>
+  <a class="skip-link" href="#top">Skip to main content</a>
   <canvas id="network" aria-hidden="true"></canvas>
   <div class="scanlines" aria-hidden="true"></div>
   <div class="ambient ambient-a" aria-hidden="true"></div>
   <div class="ambient ambient-b" aria-hidden="true"></div>
 
   <header class="topbar">
-    <a class="brand" href="#top" aria-label="Ankush Thakur home">AT<span>.</span></a>
+    <a class="brand" href="#top" aria-label="Ankush Thakur home">AT<span aria-hidden="true">.</span></a>
     <nav aria-label="Primary navigation">
       <a href="#work">Work</a>
       <a href="#capabilities">Capabilities</a>
@@ -29,54 +30,54 @@
     </nav>
   </header>
 
-  <main id="top">
-    <section class="hero">
-      <div class="eyebrow"><span></span> TECHNOLOGY &amp; E-COMMERCE LEADERSHIP</div>
+  <main id="top" tabindex="-1">
+    <section class="hero" aria-labelledby="hero-title">
+      <div class="eyebrow"><span aria-hidden="true"></span> TECHNOLOGY &amp; E-COMMERCE LEADERSHIP</div>
       <p class="hero-kicker">Head of IT &middot; E-commerce &middot; Digital Operations</p>
-      <h1>ANKUSH<br><em>THAKUR</em></h1>
+      <h1 id="hero-title">ANKUSH<br><em>THAKUR</em></h1>
       <p class="hero-copy">I sit at the intersection of technology, e-commerce and operations. I lead digital initiatives from strategy to launch while staying close to the systems, integrations, automation and data that make the work real.</p>
 
       <div class="hero-actions">
-        <a class="button button-primary contact-trigger" href="#contact">Start a conversation <span>&nearr;</span></a>
-        <a class="button button-ghost" href="https://www.linkedin.com/in/ankush-thakur-3922bb177" target="_blank" rel="noreferrer">LinkedIn <span>&nearr;</span></a>
+        <a class="button button-primary contact-trigger" href="#contact">Start a conversation <span aria-hidden="true">&nearr;</span></a>
+        <a class="button button-ghost" href="https://www.linkedin.com/in/ankush-thakur-3922bb177" target="_blank" rel="noreferrer" aria-label="LinkedIn (opens in a new tab)">LinkedIn <span aria-hidden="true">&nearr;</span></a>
       </div>
 
-      <div class="hero-meta">
+      <div class="hero-meta" aria-label="Professional focus">
         <div><span>BASE</span>Edmonton, Canada</div>
         <div><span>FOCUS</span>Digital Commerce + IT</div>
         <div><span>MODE</span>Strategy / Build / Operate</div>
       </div>
     </section>
 
-    <section id="work" class="section">
-      <div class="section-heading"><span>01</span><h2>How I work</h2></div>
+    <section id="work" class="section" aria-labelledby="work-title">
+      <div class="section-heading"><span aria-hidden="true">01</span><h2 id="work-title">How I work</h2></div>
       <div class="cards">
-        <article class="card featured"><div class="card-index">A / 01</div><h3>Own the digital<br>roadmap.</h3><p>Translate business goals into practical technology initiatives, manage priorities, coordinate stakeholders and keep launches moving from idea through production.</p><div class="card-tags"><span>IT LEADERSHIP</span><span>PROJECT DELIVERY</span></div></article>
-        <article class="card"><div class="card-index">B / 02</div><h3>Run the<br>commerce engine.</h3><p>Work across Shopify, storefront operations, catalog and merchandising workflows, B2B needs, fulfillment, returns and the systems around the customer journey.</p><div class="card-tags"><span>SHOPIFY</span><span>DIGITAL COMMERCE</span></div></article>
-        <article class="card"><div class="card-index">C / 03</div><h3>Automate the<br>repetitive work.</h3><p>Connect SaaS tools, marketing, inventory, fulfillment and operational workflows so teams spend less time moving data and more time solving useful problems.</p><div class="card-tags"><span>AUTOMATION</span><span>INTEGRATIONS</span></div></article>
+        <article class="card featured"><div class="card-index" aria-hidden="true">A / 01</div><h3>Own the digital<br>roadmap.</h3><p>Translate business goals into practical technology initiatives, manage priorities, coordinate stakeholders and keep launches moving from idea through production.</p><div class="card-tags"><span>IT LEADERSHIP</span><span>PROJECT DELIVERY</span></div></article>
+        <article class="card"><div class="card-index" aria-hidden="true">B / 02</div><h3>Run the<br>commerce engine.</h3><p>Work across Shopify, storefront operations, catalog and merchandising workflows, B2B needs, fulfillment, returns and the systems around the customer journey.</p><div class="card-tags"><span>SHOPIFY</span><span>DIGITAL COMMERCE</span></div></article>
+        <article class="card"><div class="card-index" aria-hidden="true">C / 03</div><h3>Automate the<br>repetitive work.</h3><p>Connect SaaS tools, marketing, inventory, fulfillment and operational workflows so teams spend less time moving data and more time solving useful problems.</p><div class="card-tags"><span>AUTOMATION</span><span>INTEGRATIONS</span></div></article>
       </div>
     </section>
 
-    <section id="capabilities" class="section capabilities-section">
-      <div class="section-heading"><span>02</span><h2>Technical capabilities</h2></div>
+    <section id="capabilities" class="section capabilities-section" aria-labelledby="capabilities-title">
+      <div class="section-heading"><span aria-hidden="true">02</span><h2 id="capabilities-title">Technical capabilities</h2></div>
       <div class="capability-grid">
-        <div class="capability"><span class="capability-number">01</span><h3>Commerce platforms</h3><p>Shopify / Shopify Plus, Adobe Commerce Cloud and Salesforce Commerce Cloud, with a focus on integrations and practical storefront operations.</p></div>
-        <div class="capability"><span class="capability-number">02</span><h3>Systems administration</h3><p>Microsoft 365, SaaS administration, access and licensing, business systems, vendor coordination and the infrastructure required to keep teams productive.</p></div>
-        <div class="capability"><span class="capability-number">03</span><h3>Workflow automation</h3><p>Build and maintain rules, flows and integrations across commerce, marketing, customer service, inventory, fulfillment and operations.</p></div>
-        <div class="capability"><span class="capability-number">04</span><h3>Data &amp; catalog operations</h3><p>Product data, bulk updates, catalog workflows, imports and operational data hygiene using tools such as Matrixify and connected commerce systems.</p></div>
-        <div class="capability"><span class="capability-number">05</span><h3>Marketing technology</h3><p>Klaviyo flows, email automation, customer journeys and the technology layer that connects marketing activity with commerce operations.</p></div>
-        <div class="capability"><span class="capability-number">06</span><h3>Fulfillment &amp; CX systems</h3><p>3PL and fulfillment workflows, returns, support platforms and the integrations required to keep orders and customer communication moving.</p></div>
+        <div class="capability"><span class="capability-number" aria-hidden="true">01</span><h3>Commerce platforms</h3><p>Shopify / Shopify Plus, Adobe Commerce Cloud and Salesforce Commerce Cloud, with a focus on integrations and practical storefront operations.</p></div>
+        <div class="capability"><span class="capability-number" aria-hidden="true">02</span><h3>Systems administration</h3><p>Microsoft 365, SaaS administration, access and licensing, business systems, vendor coordination and the infrastructure required to keep teams productive.</p></div>
+        <div class="capability"><span class="capability-number" aria-hidden="true">03</span><h3>Workflow automation</h3><p>Build and maintain rules, flows and integrations across commerce, marketing, customer service, inventory, fulfillment and operations.</p></div>
+        <div class="capability"><span class="capability-number" aria-hidden="true">04</span><h3>Data &amp; catalog operations</h3><p>Product data, bulk updates, catalog workflows, imports and operational data hygiene using tools such as Matrixify and connected commerce systems.</p></div>
+        <div class="capability"><span class="capability-number" aria-hidden="true">05</span><h3>Marketing technology</h3><p>Klaviyo flows, email automation, customer journeys and the technology layer that connects marketing activity with commerce operations.</p></div>
+        <div class="capability"><span class="capability-number" aria-hidden="true">06</span><h3>Fulfillment &amp; CX systems</h3><p>3PL and fulfillment workflows, returns, support platforms and the integrations required to keep orders and customer communication moving.</p></div>
       </div>
     </section>
 
-    <section class="section architecture-section">
-      <div class="section-heading"><span>03</span><h2>Where technology meets operations</h2></div>
-      <div class="architecture"><div class="architecture-node"><span>01</span><strong>Customer</strong><small>Storefront / B2B</small></div><div class="architecture-line"></div><div class="architecture-node active"><span>02</span><strong>Commerce</strong><small>Shopify / Platforms</small></div><div class="architecture-line"></div><div class="architecture-node"><span>03</span><strong>Systems</strong><small>Marketing / CX / Data</small></div><div class="architecture-line"></div><div class="architecture-node"><span>04</span><strong>Operations</strong><small>Inventory / 3PL / Returns</small></div></div>
+    <section class="section architecture-section" aria-labelledby="architecture-title">
+      <div class="section-heading"><span aria-hidden="true">03</span><h2 id="architecture-title">Where technology meets operations</h2></div>
+      <div class="architecture" aria-label="Technology and operations flow from customer to commerce to systems to operations"><div class="architecture-node"><span aria-hidden="true">01</span><strong>Customer</strong><small>Storefront / B2B</small></div><div class="architecture-line" aria-hidden="true"></div><div class="architecture-node active"><span aria-hidden="true">02</span><strong>Commerce</strong><small>Shopify / Platforms</small></div><div class="architecture-line" aria-hidden="true"></div><div class="architecture-node"><span aria-hidden="true">03</span><strong>Systems</strong><small>Marketing / CX / Data</small></div><div class="architecture-line" aria-hidden="true"></div><div class="architecture-node"><span aria-hidden="true">04</span><strong>Operations</strong><small>Inventory / 3PL / Returns</small></div></div>
       <p class="architecture-copy">The interesting work is rarely one application. It is the handoff between them. I focus on making those connections reliable, understandable and useful to the people operating the business.</p>
     </section>
 
-    <section id="projects" class="section projects-section">
-      <div class="section-heading"><span>04</span><h2>Selected projects</h2></div>
+    <section id="projects" class="section projects-section" aria-labelledby="projects-title">
+      <div class="section-heading"><span aria-hidden="true">04</span><h2 id="projects-title">Selected projects</h2></div>
       <p class="section-intro">A few examples of the problems I like to solve. Client and employer details stay intentionally high-level; the focus is on the technology, decisions and delivery.</p>
       <div class="project-list">
         <article class="project-card project-featured"><div class="project-top"><span>CASE / 01</span><b>SHOPIFY</b></div><h3>Commerce workflow &amp; B2B enhancement</h3><p class="project-problem"><strong>Challenge</strong> Improve the storefront and B2B experience while keeping catalog, merchandising and operational workflows manageable.</p><div class="project-detail"><div><span>ROLE</span>Technology / Project Lead</div><div><span>FOCUS</span>Shopify, B2B, catalog, UX</div></div><p>Coordinated requirements, platform configuration and implementation across the storefront and business workflows, with emphasis on usability, maintainability and clean operational handoffs.</p><div class="card-tags"><span>SHOPIFY</span><span>B2B</span><span>UX / OPERATIONS</span></div></article>
@@ -88,17 +89,25 @@
       </div>
     </section>
 
-    <section id="stack" class="section split-section">
-      <div class="section-heading"><span>05</span><h2>Core stack</h2></div>
-      <div class="stack-grid"><div class="stack-lead"><p class="mono-label">CURRENT TOOLKIT</p><p class="stack-statement">Technology should disappear behind a <strong>better experience.</strong></p></div><div class="tech-list"><div><span>01</span><strong>Shopify / Shopify Plus</strong><small>Storefronts &amp; commerce</small></div><div><span>02</span><strong>Adobe Commerce</strong><small>Enterprise commerce</small></div><div><span>03</span><strong>Salesforce Commerce</strong><small>Commerce ecosystems</small></div><div><span>04</span><strong>Microsoft 365</strong><small>IT &amp; productivity stack</small></div><div><span>05</span><strong>Klaviyo</strong><small>Email &amp; lifecycle automation</small></div><div><span>06</span><strong>Matrixify</strong><small>Catalog &amp; bulk data</small></div><div><span>07</span><strong>Gorgias / Returns</strong><small>CX &amp; post-purchase</small></div><div><span>08</span><strong>3PL / Fulfillment</strong><small>Operational workflows</small></div></div></div>
+    <section id="stack" class="section split-section" aria-labelledby="stack-title">
+      <div class="section-heading"><span aria-hidden="true">05</span><h2 id="stack-title">Core stack</h2></div>
+      <div class="stack-grid"><div class="stack-lead"><p class="mono-label">CURRENT TOOLKIT</p><p class="stack-statement">Technology should disappear behind a <strong>better experience.</strong></p></div><div class="tech-list"><div><span aria-hidden="true">01</span><strong>Shopify / Shopify Plus</strong><small>Storefronts &amp; commerce</small></div><div><span aria-hidden="true">02</span><strong>Adobe Commerce</strong><small>Enterprise commerce</small></div><div><span aria-hidden="true">03</span><strong>Salesforce Commerce</strong><small>Commerce ecosystems</small></div><div><span aria-hidden="true">04</span><strong>Microsoft 365</strong><small>IT &amp; productivity stack</small></div><div><span aria-hidden="true">05</span><strong>Klaviyo</strong><small>Email &amp; lifecycle automation</small></div><div><span aria-hidden="true">06</span><strong>Matrixify</strong><small>Catalog &amp; bulk data</small></div><div><span aria-hidden="true">07</span><strong>Gorgias / Returns</strong><small>CX &amp; post-purchase</small></div><div><span aria-hidden="true">08</span><strong>3PL / Fulfillment</strong><small>Operational workflows</small></div></div></div>
     </section>
 
-    <section class="section philosophy-section"><div class="section-heading"><span>06</span><h2>The value I bring</h2></div><div class="philosophy-grid"><div><strong>Business-first</strong><p>I start with the outcome, not the tool. Technology is valuable when it makes the business simpler, faster or more reliable.</p></div><div><strong>Hands-on</strong><p>I am comfortable moving between leadership conversations, platform configuration, integrations, troubleshooting and execution.</p></div><div><strong>Systems thinking</strong><p>I look beyond the immediate ticket or request and consider the workflow, dependencies, ownership and long-term maintenance.</p></div></div></section>
+    <section class="section philosophy-section" aria-labelledby="value-title"><div class="section-heading"><span aria-hidden="true">06</span><h2 id="value-title">The value I bring</h2></div><div class="philosophy-grid"><div><strong>Business-first</strong><p>I start with the outcome, not the tool. Technology is valuable when it makes the business simpler, faster or more reliable.</p></div><div><strong>Hands-on</strong><p>I am comfortable moving between leadership conversations, platform configuration, integrations, troubleshooting and execution.</p></div><div><strong>Systems thinking</strong><p>I look beyond the immediate ticket or request and consider the workflow, dependencies, ownership and long-term maintenance.</p></div></div></section>
 
-    <section id="contact" class="contact-panel"><div><p class="mono-label">07 / NEXT SIGNAL</p><h2>Have a difficult<br><em>digital problem?</em></h2></div><a class="contact-link contact-trigger" href="#contact">Send a message <span>&nearr;</span></a></section>
+    <section id="contact" class="contact-panel" aria-labelledby="contact-title"><div><p class="mono-label">07 / NEXT SIGNAL</p><h2 id="contact-title">Have a difficult<br><em>digital problem?</em></h2></div><a class="contact-link contact-trigger" href="#contact">Send a message <span aria-hidden="true">&nearr;</span></a></section>
   </main>
 
-  <footer><span>&copy; <span id="year"></span> Ankush Thakur</span><div class="footer-links"><a href="https://github.com/ankushthakur12" target="_blank" rel="noreferrer">GitHub</a><a href="https://codepen.io/ankush-thakur" target="_blank" rel="noreferrer">CodePen</a><a href="https://www.linkedin.com/in/ankush-thakur-3922bb177" target="_blank" rel="noreferrer">LinkedIn</a><a href="https://twitter.com/ankushthakur12" target="_blank" rel="noreferrer">Twitter</a></div></footer>
+  <footer>
+    <span>&copy; <span id="year"></span> Ankush Thakur</span>
+    <nav class="footer-links" aria-label="Social links">
+      <a href="https://github.com/ankushthakur12" target="_blank" rel="noreferrer" aria-label="GitHub (opens in a new tab)">GitHub</a>
+      <a href="https://codepen.io/ankush-thakur" target="_blank" rel="noreferrer" aria-label="CodePen (opens in a new tab)">CodePen</a>
+      <a href="https://www.linkedin.com/in/ankush-thakur-3922bb177" target="_blank" rel="noreferrer" aria-label="LinkedIn (opens in a new tab)">LinkedIn</a>
+      <a href="https://twitter.com/ankushthakur12" target="_blank" rel="noreferrer" aria-label="Twitter (opens in a new tab)">Twitter</a>
+    </nav>
+  </footer>
   <script src="assets/script.js"></script>
 </body>
 </html>

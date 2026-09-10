@@ -78,4 +78,15 @@
 
   const year = document.getElementById('year');
   if (year) year.textContent = new Date().getFullYear();
+
+  // Build the mail address only when a visitor activates the contact CTA.
+  // The address is intentionally not present as plain text in the HTML source.
+  document.querySelectorAll('.contact-trigger').forEach((link) => {
+    link.addEventListener('click', (event) => {
+      event.preventDefault();
+      const parts = ['ankushthakur12', 'hotmail', 'com'];
+      const address = `${parts[0]}@${parts[1]}.${parts[2]}`;
+      window.location.href = `mailto:${address}`;
+    });
+  });
 })();
